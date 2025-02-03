@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5d49e161ffe447dea2dc35171a88a722
+timeCreated: 1720123980
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Pool/03_CustomPools/UnityObjectPoolWrapper.cs
+  uploadId: 712643

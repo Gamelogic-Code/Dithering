@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47f592a04a93605428a938f79b6225ed
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Internal/KDTree/NearestNeighbour.cs
+  uploadId: 712643

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b6a727dbdd71c941abe455204c31678
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Pool/01_Simple/Sprite.prefab
+  uploadId: 712643

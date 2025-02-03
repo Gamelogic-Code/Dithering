@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4e1cfaf930c04de19f6bf01fd4fc442b
+timeCreated: 1723908416
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Attributes/PopupList/ValuesRetrievalMethod.cs
+  uploadId: 712643

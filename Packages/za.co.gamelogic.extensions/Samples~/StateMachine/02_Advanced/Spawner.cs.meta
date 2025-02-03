@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e7ee5c6025404726b821adc038dc01b3
+timeCreated: 1720801024
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/StateMachine/02_Advanced/Spawner.cs
+  uploadId: 712643

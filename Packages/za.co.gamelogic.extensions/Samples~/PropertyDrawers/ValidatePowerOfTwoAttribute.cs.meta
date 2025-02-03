@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d3122a33e8a94304ae2d49a29dfe754e
+timeCreated: 1724634179
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/PropertyDrawers/ValidatePowerOfTwoAttribute.cs
+  uploadId: 712643

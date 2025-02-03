@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: bc45b6a0b9204430a75533e80d8f0fdc
+timeCreated: 1721516141
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Algorithms/RandomAccessPriorityQueue.cs
+  uploadId: 712643

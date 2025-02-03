@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d000b21f271c482c80a463ac08f9e8cb
+timeCreated: 1718308700
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Patterns/IPool.cs
+  uploadId: 712643

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 53bb3cf53baa4825922e2dc5078e6e39
+timeCreated: 1723908416
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Attributes/PopupList/LayerPopupAttribute.cs
+  uploadId: 712643

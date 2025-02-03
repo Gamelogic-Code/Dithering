@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 060bdc483841487d8932b8bc4886d345
+timeCreated: 1720125884
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Pool/03_CustomPools/FakePool.cs
+  uploadId: 712643

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27439945d46885d4f80dc9f807a4a24e
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/package.json
+  uploadId: 712643

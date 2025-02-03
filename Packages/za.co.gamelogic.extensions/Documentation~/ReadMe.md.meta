@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bac4a448668d96f4aabe05fb885f52d3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Documentation~/ReadMe.md
+  uploadId: 712643

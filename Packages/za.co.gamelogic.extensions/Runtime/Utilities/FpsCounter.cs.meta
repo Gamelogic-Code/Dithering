@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5b9b330b01874b8db6286edba80c8424
+timeCreated: 1720129456
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Utilities/FpsCounter.cs
+  uploadId: 712643

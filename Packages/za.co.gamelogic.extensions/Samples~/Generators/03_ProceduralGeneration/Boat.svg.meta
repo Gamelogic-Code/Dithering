@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30478267ce8a7e34aa0af3c479172886
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Generators/03_ProceduralGeneration/Boat.svg
+  uploadId: 712643

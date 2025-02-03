@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d0e3b863187a4d4987b12ffc53bc23cd
+timeCreated: 1718308724
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Patterns/PoolExtensions.cs
+  uploadId: 712643

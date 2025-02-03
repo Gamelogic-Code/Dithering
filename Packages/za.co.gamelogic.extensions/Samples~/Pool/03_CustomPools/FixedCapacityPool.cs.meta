@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d693d8c356924ca5a5d27a9bfa96336c
+timeCreated: 1720122890
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Pool/03_CustomPools/FixedCapacityPool.cs
+  uploadId: 712643

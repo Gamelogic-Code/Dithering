@@ -1,0 +1,76 @@
+{
+  "name": "za.co.gamelogic.extensions",
+  "version": "4.4.2",
+  "description": "Provides utilities that can be used in most games. This library is used by other Gamelogic packages.",
+  "displayName": "Gamelogic Extensions",
+  "unity": "2019.4",
+  "hideInEditor": false,
+  "documentationUrl": "https://www.gamelogic.co.za/documentation/extensions/",
+  "keywords": [
+    "algorithms",
+    "extensions",
+    "generator",
+    "math",
+    "pool",
+    "singleton",
+    "state machine",
+    "utility",
+    "pattern",
+    "collection utilities",
+    "procedural generation",
+    "response curve",
+    "player prefs",
+    "inspector"
+  ],
+  "samples": [
+    {
+      "displayName": "Shared Resources [Required by other samples]",
+      "description": "Needed by all the other samples.",
+      "path": "Samples~/SharedResources"
+    },
+    {
+      "displayName": "Clock",
+      "description": "Shows how to use the Clock class.",
+      "path": "Samples~/Clock"
+    },
+    {
+      "displayName": "Generators",
+      "description": "Shows how to use the Generators.",
+      "path": "Samples~/Generators"
+    },
+    {
+      "displayName": "Pool",
+      "description": "Shows how to use the pool classes.",
+      "path": "Samples~/Pool"
+    },
+    {
+      "displayName": "Property Drawers",
+      "description": "Shows how to use the property drawers class.",
+      "path": "Samples~/PropertyDrawers"
+    },
+    {
+      "displayName": "Response Curve",
+      "description": "Shows how to use response curves.",
+      "path": "Samples~/ResponseCurve"
+    },
+    {
+      "displayName": "State Machine",
+      "description": "Shows how to use the StateMachine class.",
+      "path": "Samples~/StateMachine"
+    },
+    {
+      "displayName": "State Tracker",
+      "description": "Shows how to use the StateTracker class.",
+      "path": "Samples~/StateTracker"
+    },
+    {
+      "displayName": "Timed State Tracker",
+      "description": "Shows how to use the TimedStateTracker class.",
+      "path": "Samples~/TimedStateTracker"
+    }
+  ],
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.2d.sprite": "1.0.0"
+  }
+}

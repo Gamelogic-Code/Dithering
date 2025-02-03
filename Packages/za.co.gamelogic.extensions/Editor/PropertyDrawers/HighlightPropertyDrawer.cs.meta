@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 944c40bdcd441624186f1dab519e39bf
+timeCreated: 1496513342
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/PropertyDrawers/HighlightPropertyDrawer.cs
+  uploadId: 712643

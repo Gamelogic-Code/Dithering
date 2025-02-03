@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5543f7831bd845c479084b1ae275e9af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Pool/02_Benchmark/Cube.prefab
+  uploadId: 712643

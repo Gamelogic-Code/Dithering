@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: bef7f3c44785456daa21349852b55202
+timeCreated: 1721578683
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/UnityExtensions/InspectableData/MinMaxRangeAttribute.cs
+  uploadId: 712643

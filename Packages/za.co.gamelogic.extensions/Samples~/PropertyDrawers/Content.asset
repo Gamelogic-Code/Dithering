@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f452471dbd4385870bb0d5ab0d2951, type: 3}
+  m_Name: Content
+  m_EditorClassIdentifier: 
+  powerUps:
+  - name: EnergyBoost
+    color: {r: 0.007843138, g: 0.5921569, b: 0.9960785, a: 1}
+  - name: HealthBoost
+    color: {r: 0.92549026, g: 0.45098042, b: 0.4431373, a: 1}
+  - name: SpeedBoost
+    color: {r: 0.9607844, g: 0.9176471, b: 0.21960786, a: 1}
+  colors:
+  - {r: 0.18823531, g: 0.15686275, b: 0.4784314, a: 1}
+  - {r: 0.007843138, g: 0.5921569, b: 0.9960785, a: 1}
+  - {r: 0.48235297, g: 0.85098046, b: 0.882353, a: 1}

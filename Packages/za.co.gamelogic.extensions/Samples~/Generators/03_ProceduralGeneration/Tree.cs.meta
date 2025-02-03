@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3e839980ad2d9714e9d83e87959c9061
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Generators/03_ProceduralGeneration/Tree.cs
+  uploadId: 712643

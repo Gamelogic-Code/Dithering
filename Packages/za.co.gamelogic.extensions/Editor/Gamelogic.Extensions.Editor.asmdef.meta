@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 257e5a2e5e793584ab70b89d90c630cc
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/Gamelogic.Extensions.Editor.asmdef
+  uploadId: 712643

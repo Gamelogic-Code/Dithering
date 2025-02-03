@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca771f2ceb4f39a46bc8fcbaaf8ce9a1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/Internal/GLEditor.cs
+  uploadId: 712643

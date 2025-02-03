@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: aff9cb8df90e4ec4a8d336af63382bee
+timeCreated: 1721509402
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Generators/03_ProceduralGeneration/ScalingSceneObject.cs
+  uploadId: 712643

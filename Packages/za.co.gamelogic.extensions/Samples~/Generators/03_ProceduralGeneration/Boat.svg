@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="101.0387mm"
+   height="25.626244mm"
+   viewBox="0 0 101.0387 25.626244"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Boat.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0016376"
+     inkscape:cx="162.11726"
+     inkscape:cy="101.66676"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.960466,-25.096986)">
+    <g
+       id="g6"
+       style="fill:#ffffff"
+       inkscape:export-filename="Boat.png"
+       inkscape:export-xdpi="201.11104"
+       inkscape:export-ydpi="201.11104">
+      <path
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 98.856113,37.562702 -3.752857,-6.623743 5.057694,-1.651821 1.19838,7.517041 z"
+         id="path2" />
+      <path
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 96.791946,36.647469 -2.99902,6.865485 h 10.442414 l -1.56568,-5.887129 -4.766619,-1.66816 z"
+         id="path5" />
+      <path
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 93.010081,40.569389 -8.179085,-1.631377 -6.870536,-7.052509 4.07743,11.416803 10.030478,7.420922 h 58.388802 l 14.92339,-10.112026 13.61861,-12.966226 -13.92671,9.140031 -14.18994,4.097504 -57.872439,-0.313122 v 0 0"
+         id="path6"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 12f12aaa1c1747649bcc927b6809e39a
+timeCreated: 1719526628
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Pool/03_CustomPools/PoolOfSelfReleasingObjects.cs
+  uploadId: 712643

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab849ca961d9e644f9e713b2bbffc392
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/GLSerializedProperty.cs
+  uploadId: 712643

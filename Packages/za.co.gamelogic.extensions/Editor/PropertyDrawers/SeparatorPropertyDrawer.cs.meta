@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: eb5dcef925074a199bba9dc8cffe1299
+timeCreated: 1724691767
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/PropertyDrawers/SeparatorPropertyDrawer.cs
+  uploadId: 712643

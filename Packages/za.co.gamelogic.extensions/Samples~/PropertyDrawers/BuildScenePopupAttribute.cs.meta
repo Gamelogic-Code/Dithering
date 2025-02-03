@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 9132b32b15af4ee7bce01d14e10ee5f7
+timeCreated: 1723908416
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/PropertyDrawers/BuildScenePopupAttribute.cs
+  uploadId: 712643

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60b136d182c9b264cb086e8c621d7b94
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/PropertyDrawers/Content.asset
+  uploadId: 712643

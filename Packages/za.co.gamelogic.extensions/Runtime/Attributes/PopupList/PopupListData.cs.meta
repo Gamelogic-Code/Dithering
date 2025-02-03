@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: cf11d4476b1947ee9bb2b601856d138f
+timeCreated: 1723908416
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Attributes/PopupList/PopupListData.cs
+  uploadId: 712643

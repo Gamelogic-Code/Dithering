@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: abe33f73cea3453478af3d3f8c5ecb22
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Internal/BinaryHeap/BinaryHeapLincense.txt
+  uploadId: 712643

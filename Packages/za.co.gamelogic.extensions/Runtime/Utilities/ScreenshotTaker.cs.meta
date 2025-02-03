@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b898b17761c75424fbe6a1be72399bc4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Utilities/ScreenshotTaker.cs
+  uploadId: 712643

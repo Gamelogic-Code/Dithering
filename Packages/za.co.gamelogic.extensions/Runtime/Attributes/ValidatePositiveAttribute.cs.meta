@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 218e6a91297e45b1b86deb52ed23b8e9
+timeCreated: 1727024971
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Attributes/ValidatePositiveAttribute.cs
+  uploadId: 712643

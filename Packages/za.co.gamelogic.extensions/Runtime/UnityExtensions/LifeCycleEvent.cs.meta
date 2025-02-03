@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4a3ed7329ab547199728da53562e9a50
+timeCreated: 1715088726
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/UnityExtensions/LifeCycleEvent.cs
+  uploadId: 712643

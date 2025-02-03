@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fc4739c356f543979e0f6103280e3a0f
+timeCreated: 1727024971
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Attributes/ValidateNotWhiteSpaceOrEmpty.cs
+  uploadId: 712643

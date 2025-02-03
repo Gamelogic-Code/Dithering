@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6bc9f3caf2340f444ab3ea6c84d1a619
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Internal/HashFunctions/MurmurHash.cs
+  uploadId: 712643

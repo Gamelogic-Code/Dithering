@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f6bd396a7d8b8a4da97d99402381c39
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Diagnostics/GLDebug.cs
+  uploadId: 712643

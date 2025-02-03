@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0afe2132e330d246a4ce186477cec93
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/StateMachine/02_Advanced/Life.unity
+  uploadId: 712643

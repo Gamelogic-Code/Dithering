@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 717b5055d42ed0a42a77f8698e096956
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/PropertyDrawers/InspectorFlagsPropertyDrawer.cs
+  uploadId: 712643

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a5865e44ae00f0048be23b2cf563eea2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/SharedResources/TitleUI.prefab
+  uploadId: 712643

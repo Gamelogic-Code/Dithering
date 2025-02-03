@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 2ab26791b53642ea987ea7e0edf255db
+timeCreated: 1719607247
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Exceptions/ThrowHelper.cs
+  uploadId: 712643

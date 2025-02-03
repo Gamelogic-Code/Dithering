@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ec661943339a134d92f22485bc3bf3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/StateMachine/02_Advanced/Organism.cs
+  uploadId: 712643

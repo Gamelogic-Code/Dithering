@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ddc01079c33a48340bf122b27b6fc868
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/CHANGELOG.md
+  uploadId: 712643

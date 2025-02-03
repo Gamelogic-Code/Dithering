@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a376b7db294813f45a14d431c25f1887
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Internal/KDTree/MinHeap.cs
+  uploadId: 712643

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 206bfd023e279bf4f815b9b11c98e52d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/PropertyDrawers/MinMaxFloatPropertyDrawer.cs
+  uploadId: 712643

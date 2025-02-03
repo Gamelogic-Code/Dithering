@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c3236052ba90db042a16c6599169f088
+timeCreated: 1493660393
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Patterns/StateTracker.cs
+  uploadId: 712643

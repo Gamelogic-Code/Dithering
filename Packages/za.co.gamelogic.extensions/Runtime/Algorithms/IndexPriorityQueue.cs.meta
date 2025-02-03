@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 600911456cdd4d37958d5daededb20e4
+timeCreated: 1719607021
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Algorithms/IndexPriorityQueue.cs
+  uploadId: 712643

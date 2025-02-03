@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b71a436d4ae7f1b49a6c7f7eb0818a3c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/Internal/StringExtensions.cs
+  uploadId: 712643

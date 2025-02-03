@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: cbe3a8fb1dbd46f699d3c091dfd96a68
+timeCreated: 1720798579
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/StateMachine/02_Advanced/WorldInfo.cs
+  uploadId: 712643

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 109f5ffb39ef9fd45980269b85b1ae7b
+timeCreated: 1492949575
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/TimedStateTracker/EventTrackerExample.unity
+  uploadId: 712643

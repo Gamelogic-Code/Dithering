@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fdf7ed2aafda496eb834f15d7ea0f0f6
+timeCreated: 1727024971
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Attributes/ValidateMatchRegularExpressionAttribute.cs
+  uploadId: 712643

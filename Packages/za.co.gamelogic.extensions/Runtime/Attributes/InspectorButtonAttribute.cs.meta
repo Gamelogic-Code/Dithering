@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9e82f58bb64dbf2408b1ce8ccb2025fb
+timeCreated: 1491073247
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Attributes/InspectorButtonAttribute.cs
+  uploadId: 712643

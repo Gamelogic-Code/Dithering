@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 48bc4d412c114518ae0781e1c546a2b5
+timeCreated: 1723766539
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/PropertyDrawers/PopupList/PopupListPropertyDrawer.cs
+  uploadId: 712643

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: adefae52fa17dde4493f2f5e0494e605
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Pool/01_Simple/Cube.prefab
+  uploadId: 712643

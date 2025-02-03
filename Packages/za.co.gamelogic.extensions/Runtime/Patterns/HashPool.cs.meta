@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7417f05cf8684b7cb549b2d7a2487cea
+timeCreated: 1718308691
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Patterns/HashPool.cs
+  uploadId: 712643

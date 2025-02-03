@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5b6b4674221c404ba058359c59793f21
+timeCreated: 1720798572
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/StateMachine/02_Advanced/FoodSource.cs
+  uploadId: 712643

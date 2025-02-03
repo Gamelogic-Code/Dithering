@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4f2bc265533740ef9b32308303e17c62
+timeCreated: 1725039149
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/PropertyDrawers/ValidateMaxMagnitudeAttrubute.cs
+  uploadId: 712643

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5b597f046afd6b049bdc7286a975a2f6
+timeCreated: 1470673331
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Patterns/Pool.cs
+  uploadId: 712643

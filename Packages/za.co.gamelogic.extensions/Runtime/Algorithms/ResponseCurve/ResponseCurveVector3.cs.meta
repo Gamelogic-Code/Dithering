@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc715d40253052a4abf5cda6ea222a24
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Algorithms/ResponseCurve/ResponseCurveVector3.cs
+  uploadId: 712643

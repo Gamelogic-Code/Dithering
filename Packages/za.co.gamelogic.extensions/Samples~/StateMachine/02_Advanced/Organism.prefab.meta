@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 295d8c40ec4d78e499b3f08680514c12
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/StateMachine/02_Advanced/Organism.prefab
+  uploadId: 712643

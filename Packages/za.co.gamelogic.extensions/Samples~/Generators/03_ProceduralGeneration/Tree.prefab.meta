@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9dd51dd8908b82540908670743d86f1c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Generators/03_ProceduralGeneration/Tree.prefab
+  uploadId: 712643

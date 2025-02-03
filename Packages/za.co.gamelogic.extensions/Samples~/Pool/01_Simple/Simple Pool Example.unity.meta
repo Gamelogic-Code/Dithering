@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c7c781258c6e9147ba1fecf9ac4f035
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Pool/01_Simple/Simple Pool
+    Example.unity
+  uploadId: 712643

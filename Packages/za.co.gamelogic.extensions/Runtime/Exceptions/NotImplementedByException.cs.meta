@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50e0179d67321514883341dee79806c0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Exceptions/NotImplementedByException.cs
+  uploadId: 712643

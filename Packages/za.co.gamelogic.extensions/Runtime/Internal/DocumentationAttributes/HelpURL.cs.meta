@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a212e0949dae3504f9c828f80c1ff5dd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Internal/DocumentationAttributes/HelpURL.cs
+  uploadId: 712643

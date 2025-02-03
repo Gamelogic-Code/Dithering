@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fceabab831dbd2c43b566b0d24491f54
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Internal/KDTree/IDistanceFunction.cs
+  uploadId: 712643

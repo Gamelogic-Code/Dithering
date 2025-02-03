@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4cb4918f9bd265c46ac95c441cc04691
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Third Party Notices.md
+  uploadId: 712643

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7f646028c00b48679ef1bca072f9af3c
+timeCreated: 1723763814
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Support/PropertyDrawerData.cs
+  uploadId: 712643

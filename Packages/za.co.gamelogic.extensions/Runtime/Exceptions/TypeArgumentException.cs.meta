@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b26553dde02046d4c944d4e0f9b229c4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Exceptions/TypeArgumentException.cs
+  uploadId: 712643

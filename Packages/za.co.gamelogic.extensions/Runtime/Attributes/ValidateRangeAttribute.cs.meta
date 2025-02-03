@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1634b2ae95454231a3e02b9ccb65de99
+timeCreated: 1727024971
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Attributes/ValidateRangeAttribute.cs
+  uploadId: 712643

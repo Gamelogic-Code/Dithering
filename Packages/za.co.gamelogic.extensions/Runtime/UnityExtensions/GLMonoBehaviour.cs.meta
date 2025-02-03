@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15717c022b144794e879665a019d60f9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/UnityExtensions/GLMonoBehaviour.cs
+  uploadId: 712643

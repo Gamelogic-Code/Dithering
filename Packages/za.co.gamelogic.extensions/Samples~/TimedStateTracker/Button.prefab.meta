@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d72440b239ae1b147bf6da43be3dd277
+timeCreated: 1492961089
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/TimedStateTracker/Button.prefab
+  uploadId: 712643

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9a03c23c9dfb4cd683268a7be70fcf03
+timeCreated: 1718221089
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Pool/03_CustomPools/RobustPool.cs
+  uploadId: 712643

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ecf4087754ab5ec4baab09dcb30f722a
+timeCreated: 1466004916
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/PropertyDrawers/CommentPropertyDrawer.cs
+  uploadId: 712643

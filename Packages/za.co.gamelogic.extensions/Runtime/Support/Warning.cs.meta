@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ffce62082fed51348842bfa0effe4c01
+timeCreated: 1712599733
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Support/Warning.cs
+  uploadId: 712643

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5211d1c59502489fab294d710d622341
+timeCreated: 1727025338
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/PropertyDrawers/PositivePropertyDrawer.cs
+  uploadId: 712643

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2115ad1b990e17a4ea56f82b7a60b6c6
+timeCreated: 1492883686
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Generators/01_Simple/Generators.unity
+  uploadId: 712643

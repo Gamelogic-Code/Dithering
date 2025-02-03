@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 101406dcd4524af299a1f94e79fa9263
+timeCreated: 1719608192
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Algorithms/ComparerExtensions.cs
+  uploadId: 712643

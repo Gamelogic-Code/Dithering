@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 84f4631a25864139b1e3201d5e6f0e47
+timeCreated: 1723908416
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Attributes/PopupList/ColorPopupAttribute.cs
+  uploadId: 712643

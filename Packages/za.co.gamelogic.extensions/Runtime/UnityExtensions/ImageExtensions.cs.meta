@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 949ea1568fa14848a4469a76244fb771
+timeCreated: 1718655252
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/UnityExtensions/ImageExtensions.cs
+  uploadId: 712643

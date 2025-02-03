@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d021bae780d5ee149aac8ca5c52f07ae
+timeCreated: 1472137507
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Attributes/ReadOnlyAttribute.cs
+  uploadId: 712643

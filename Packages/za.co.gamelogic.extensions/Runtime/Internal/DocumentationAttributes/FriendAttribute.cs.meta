@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 733e1fae830d1ac4293ba4e9b95f833b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Internal/DocumentationAttributes/FriendAttribute.cs
+  uploadId: 712643

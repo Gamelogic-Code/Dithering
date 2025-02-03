@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90697c3089215ea46a5cc7cba3a60b93
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Algorithms/ResponseCurve/ResponseCurveBase.cs
+  uploadId: 712643

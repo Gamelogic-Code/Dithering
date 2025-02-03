@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b61b4fd0330b4fdc818268ed7d7f21b8
+timeCreated: 1720122313
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Exceptions/ErrorMessages.cs
+  uploadId: 712643

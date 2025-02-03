@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e460e2902de19b42befd86b3921a7fc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Editor/Internal/EditorUtils.cs
+  uploadId: 712643

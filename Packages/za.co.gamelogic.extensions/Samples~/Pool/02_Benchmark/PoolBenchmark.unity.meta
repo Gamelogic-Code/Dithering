@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 98d48c1271739ba42b67fe4fb9da538b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Pool/02_Benchmark/PoolBenchmark.unity
+  uploadId: 712643

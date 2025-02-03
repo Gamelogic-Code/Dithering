@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4d4096073e0645ceb9cd044defd5c7b8
+timeCreated: 1720744475
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/Algorithms/Buffer/BufferExtensions.cs
+  uploadId: 712643

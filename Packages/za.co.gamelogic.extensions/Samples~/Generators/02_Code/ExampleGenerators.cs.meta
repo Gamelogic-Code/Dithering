@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 316b7b9694177fb47a6f3e4e7720b5e4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Samples~/Generators/02_Code/ExampleGenerators.cs
+  uploadId: 712643

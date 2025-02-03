@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c68d4547ab26e0d46b714331ccd9c3b6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19323
+  packageName: Gamelogic Extensions
+  packageVersion: 4.4.2
+  assetPath: Packages/za.co.gamelogic.extensions/Runtime/UnityExtensions/InspectableData/MinMaxInt.cs
+  uploadId: 712643
